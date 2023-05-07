@@ -2,3 +2,4 @@ main.rs
 main.py
 target*
 Cargo.lock
+.vscode
